@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="ChaoticCallCentre.exe.manifest" size="3940">
+    <dependentAssembly dependencyType="install" codebase="ChaoticCallCentre.exe.manifest" size="3938">
       <assemblyIdentity name="ChaoticCallCentre.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xreVPr5+PuyfB75FyHCMAGQxW+IooQZndc0IyHbvgMU=</dsig:DigestValue>
+        <dsig:DigestValue>Zioy37UaMcDXIL262s6JrhtUzsTXY6RXfS1mqbZL2Zc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

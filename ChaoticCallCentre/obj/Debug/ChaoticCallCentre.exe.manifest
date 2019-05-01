@@ -15,14 +15,14 @@
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
           UAC Manifest Options
-          If you want to change the Windows User Account Control level replace the 
+          If you want to change the Windows User Account Control level replace the
           requestedExecutionLevel node with one of the following.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         If you want to utilize File and Registry Virtualization for backward 
+         If you want to utilize File and Registry Virtualization for backward
          compatibility then delete the requestedExecutionLevel node.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
@@ -42,33 +42,33 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoticCallCentre.exe" size="5316528">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ChaoticCallCentre.exe" size="5315584">
       <assemblyIdentity name="ChaoticCallCentre" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PvWM2Hl2MDmDhaPVR9O1FvLGpv8PuV/2MJmkzHj8X1Y=</dsig:DigestValue>
+        <dsig:DigestValue>HLrKPsEiTWwLWfCnOWS865px+9baEmAMpwTSzVQAtGU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CHAOS_log.ldf" size="1048576" writeableType="applicationData">
+  <file name="CHAOS_log.ldf" size="1835008" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>Y+5H355eI/YrILCudkBis8gEkiM0zm7QlQ3X+RNrsPE=</dsig:DigestValue>
+      <dsig:DigestValue>qWwTVWcEjXftHSfpQ7L2tqxoE8hDmOHifb4c5zHgK0U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="ChaoticCallCentre.exe.config" size="559">
+  <file name="ChaoticCallCentre.exe.config" size="566">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>CftRedPoDT5aJmVfBeuqeZKCM0yRc2+NFkh+5YToBdQ=</dsig:DigestValue>
+      <dsig:DigestValue>QDXPNbYibA5Lh9fykH/+g3VaITfyC5n/4A6fRXfgJ6g=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

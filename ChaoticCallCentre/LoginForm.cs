@@ -23,6 +23,7 @@ namespace ChaoticCallCentre
         public LoginForm()
         {
             InitializeComponent();
+            MessageBox.Show("Logins:\nadmin | admin\nuser | pass");
         }
 
 #endregion
